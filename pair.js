@@ -33,7 +33,6 @@ const config = {
   AUTO_VIEW_STATUS: 'true',
   AUTO_LIKE_STATUS: 'true',
   AUTO_RECORDING: 'false',
-  AUTO_LIKE_EMOJI: ['🤍','💗','🪼','🙈','🎀','🔥','🧸','🫧','🌟',🔮','👀','✨'],
   PREFIX: '.',
   MAX_RETRIES: 3,
   GROUP_INVITE_LINK: 'https://chat.whatsapp.com/JVWi4igUydXIOpOznNekSw',
